@@ -49,5 +49,11 @@
 	<br>
 </div>
 <br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsanghoTT&layout=compact">
+
+<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
